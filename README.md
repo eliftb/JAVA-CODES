@@ -109,10 +109,6 @@ Git (optional)
 
 Installation & Running
 bash
-# Clone repository
-git clone https://github.com/yourusername/library-management.git
-cd library-management/src
-
 # Compile and run
 javac Library.java
 java Library
